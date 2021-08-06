@@ -12,6 +12,19 @@ If your web server is on localhost, simply visit localhost forwardslash the dire
 
 <table>
     <tr>
-        <td>test</td>
+        <th>Week</th>
+        <th>Content</th>
+    </tr>
+    <tr>
+        <td>One</td>
+        <td>Intro to js and nodejs</td>
+    </tr>
+    <tr>
+        <td>Two</td>
+        <td>code version control</td>
+    </tr>
+    <tr>
+        <td>Three</td>
+        <td>Nodejs as a server</td>
     </tr>
 </table>
